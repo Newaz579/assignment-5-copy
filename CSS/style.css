@@ -1,0 +1,21 @@
+.calculate-button{
+    height: 40px;
+    width: 200px;
+    background-image: linear-gradient(#e66465, #9198e5);
+    margin: 10px;
+    font-size: large;
+}
+.notify-section{
+    width: 35%;
+    margin: 0 auto;
+}
+.notify {
+    color: #fff;
+    text-align: center;
+    margin: 0 auto;
+    background: #222436;
+    margin-top: 20px;
+    border-radius: 15px;
+    padding: 5px 20px;
+    display: none;
+}
